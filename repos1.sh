@@ -1,5 +1,6 @@
-echo "good afternoon"
-echo "welcome to evening"
-echo "Good"
-echo "Day"
+echo "this"
+echo "is"
+echo "example"
+echo "for"
+echo "git"
 
