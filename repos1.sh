@@ -1,6 +1,3 @@
-echo " everything changed "
-sfsdfsdfd
-sankar
-git
-hub
-
+good morning
+happy
+sunday
